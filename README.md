@@ -142,7 +142,8 @@ LeitorXML/
     └── LeitorXML.exe
     └── teste.xlsx
 ```
-
+*Observação:* É importante que coloque o excel de teste na mesma pasta do executável ou do código fonte para que o programa funcione,
+ao executar ele criará uma cópia do excel teste, chamado "teste (feito)" com a devida adição à tabela.
 ---
 
 ## ▶️ Executando o projeto
@@ -190,3 +191,8 @@ A automação facilita principalmente o controle de:
 * vencimentos;
 * contas a receber.
 
+## Importante
+
+O projeto aqui enviado é uma visualização limitada do programa real que fiz para uma empresa, não postarei o programa defintivo 
+pois ele possui dados confidenciais da empresa para qual eu realizei este projeto, por isso ele possui função limitada de selecionar
+apenas o excel teste que já vem neste projeto, para fins de demonstração.
