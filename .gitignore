@@ -4,7 +4,5 @@ venv
 teste
 teste2
 build
-dist
-xmls para teste
 __pycache__
 *.py[cod]
