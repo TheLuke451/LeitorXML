@@ -191,8 +191,8 @@ A automação facilita principalmente o controle de:
 * vencimentos;
 * contas a receber.
 
-## Importante
+## ⚠️ Importante
 
-O projeto aqui enviado é uma visualização limitada do programa real que fiz para uma empresa, não postarei o programa defintivo 
+O projeto aqui enviado é uma visualização limitada do programa real que fiz para uma empresa, não postarei o programa definitivo 
 pois ele possui dados confidenciais da empresa para qual eu realizei este projeto, por isso ele possui função limitada de selecionar
-apenas o excel teste que já vem neste projeto, para fins de demonstração.
+apenas o excel teste que já vem neste projeto, apenas para fins de demonstração.
