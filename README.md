@@ -135,8 +135,12 @@ LeitorXML/
 │
 ├── xml_icon.ico
 │
+└── xmls para teste/
+│    └── teste.xml
+│     
 └── dist/
     └── LeitorXML.exe
+    └── teste.xlsx
 ```
 
 ---
