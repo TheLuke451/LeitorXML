@@ -1,0 +1,10 @@
+# Created by venv; see https://docs.python.org/3/library/venv.html
+.venv
+venv
+teste
+teste2
+build
+dist
+xmls para teste
+__pycache__
+*.py[cod]
